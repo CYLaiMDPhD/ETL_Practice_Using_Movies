@@ -20,6 +20,8 @@ This module introduced the basic principles of the extract, transform, and load 
 - ratings_sample.csv (subset of ratings.csv that contains only ratings for movies in kaggle_sample.csv file)
 
 
+---
+
 ### Module exercises included
 - Downloading and extracting data from public sources
 - Transforming data
