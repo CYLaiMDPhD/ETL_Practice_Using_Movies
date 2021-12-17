@@ -15,7 +15,7 @@ This module introduced the basic principles of the extract, transform, and load 
 - ratings data from MovieLens
 - downlaod combined zip at https://www.kaggle.com/rounakbanik/the-movies-dataset/download
 
-*Note:* Due the large size of the original Kaggle data sets, a smaller data set was created for grading this assignment/testing code. Corresponding files are:
+*Note: Due the large size of the original Kaggle data sets, a smaller data set was created for grading this assignment/testing code. Corresponding files are:*
 - kaggle_sample.csv (a random sampling of 1000 entries from movies_metadata.csv)
 - ratings_sample.csv (subset of ratings.csv that contains only ratings for movies in kaggle_sample.csv file)
 
