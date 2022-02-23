@@ -1,6 +1,6 @@
-# Extract, Transform, Load using Movie data from Kaggle and Wikipedia
+# Extract, Transform, Load using Movie Data from Kaggle and Wikipedia
 
-*Note: This repository was generated to fulfill assignments (Module 8 Exercises and Challenge) for the UC Berkeley Data Analytics and Visualization Bootcamp. Content and code were based on module instructions and grading rubric*
+*Note: This repository was generated to fulfill assignments (Module 8 Exercises and Challenge) for the UC Berkeley Data Analytics and Visualization Bootcamp. Content and code were based on module instructions and grading rubric.*
 
 
 #### Purpose:
